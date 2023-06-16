@@ -4,4 +4,10 @@
 
 **깨끗해질지도는 제로 웨이스트 소비를 위한 지도앱입니다. 내 주변 어디에 친환경 가게가 있는지 알아보세요. 우리가 제로 웨이스트 소비를 함께 한다면, 깨끗해질지도.**
 
-정보가 없어서 하지 못했던 친환경 소비를 장려하고 유저 참여로 정보를 누락 없이 한 곳에 모아 쉽고 편리한 친환경 실천을 돕는 ‘친환경 특화 지도’입니다. 
+정보가 없어서 하지 못했던 친환경 소비를 장려하고 유저 참여로 정보를 누락 없이 한 곳에 모아 쉽고 편리한 친환경 실천을 돕는 ‘친환경 특화 지도’입니다.
+
+### 팀원 정보
+|정유빈|임세현|장환곤|심상현|최상원|
+|:---:|:---:|:---:|:---:|:---:|
+|기획|디자인|백엔드|프론트엔드|프론트엔드|
+|![](https://github.com/May-Be-Clean/.github/blob/main/profile/%E1%84%8B%E1%85%B2%E1%84%87%E1%85%B5%E1%86%AB.png)|![](https://github.com/May-Be-Clean/.github/blob/main/profile/%E1%84%89%E1%85%A6%E1%84%92%E1%85%A7%E1%86%AB.png)|![](https://github.com/May-Be-Clean/.github/blob/main/profile/%E1%84%92%E1%85%AA%E1%86%AB%E1%84%80%E1%85%A9%E1%86%AB.png)|![](https://github.com/May-Be-Clean/.github/blob/main/profile/%E1%84%89%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A7%E1%86%AB.png)|![](https://github.com/May-Be-Clean/.github/blob/main/profile/%E1%84%89%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%AF%E1%86%AB.png)|
