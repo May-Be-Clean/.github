@@ -6,8 +6,12 @@
 
 정보가 없어서 하지 못했던 친환경 소비를 장려하고 유저 참여로 정보를 누락 없이 한 곳에 모아 쉽고 편리한 친환경 실천을 돕는 ‘친환경 특화 지도’입니다.
 
-### 팀원 정보
-|정유빈|임세현|장환곤|심상현|최상원|
+## 팀원 정보
+|정유빈|임세현|장환곤|심상현|최상원|
 |:---:|:---:|:---:|:---:|:---:|
 |기획|디자인|백엔드|프론트엔드|프론트엔드|
 |![](https://github.com/May-Be-Clean/.github/blob/main/profile/%E1%84%8B%E1%85%B2%E1%84%87%E1%85%B5%E1%86%AB.png)|![](https://github.com/May-Be-Clean/.github/blob/main/profile/%E1%84%89%E1%85%A6%E1%84%92%E1%85%A7%E1%86%AB.png)|![](https://github.com/May-Be-Clean/.github/blob/main/profile/%E1%84%92%E1%85%AA%E1%86%AB%E1%84%80%E1%85%A9%E1%86%AB.png)|![](https://github.com/May-Be-Clean/.github/blob/main/profile/%E1%84%89%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A7%E1%86%AB.png)|![](https://github.com/May-Be-Clean/.github/blob/main/profile/%E1%84%89%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%AF%E1%86%AB.png)|
+
+## 스토어 정보
+- AppStore : [링크](https://apps.apple.com/us/app/%EA%B9%A8%EB%81%97%ED%95%B4%EC%A7%88%EC%A7%80%EB%8F%84/id6449622294)
+- PlayStore : 심사 중
